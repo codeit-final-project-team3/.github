@@ -202,6 +202,55 @@
 
 ## 기술 스택
 
+<table >
+  <tr>
+    <th>Develop</th>
+    <th>
+    <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
+     <img src="https://img.shields.io/badge/NEXT-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+    </th>
+  </tr>
+  <tr>
+    <th>UI</th>
+    <th>
+    <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/mantine-339AF0?style=flat-square&logo=mantine&logoColor=white"/> 
+    </th>
+  </tr>
+  <tr>
+    <th>상태 관리</th>
+    <th>
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TanstackReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/zustand-3f2336?style=flat-square&logo=&logoColor=white"/>
+    </th>
+  </tr>
+  <tr>
+    <th>Utility</th>
+    <th>
+    <img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/dayjs-da6959?style=flat-square&logo=dayjs&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/classNames-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/> 
+    </th>
+  </tr>
+  <tr>
+    <th>Co-Work</th>
+    <th>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+    </th>
+  </tr>
+  <tr>
+    <th>CI/CD</th>
+    <th>
+    <img src="https://img.shields.io/badge/GitHubAction-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VerCel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+    </th>
+  </tr>
+</table>
+
 ## 🖐️ Fingers
 
 <br/>
