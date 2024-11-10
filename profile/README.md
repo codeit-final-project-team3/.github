@@ -16,9 +16,9 @@
 
 - 즐거움을 나누는 이색 체험 플랫폼, GIVEMEFIVE에서 간단하게 여행을 예약해보세요!
 
-&nbsp;&nbsp;&nbsp;&nbsp;👉 [GIVEMEFIVE 바로가기][배포] 👈
+&nbsp;&nbsp;&nbsp;&nbsp;👉 [GIVEMEFIVE 구경][배포] 👈
 
-&nbsp;&nbsp;&nbsp;&nbsp;👉 [노션 바로가기][노션] 👈
+&nbsp;&nbsp;&nbsp;&nbsp;👉 [GIVEMEFIVE 개발 기록 노션][노션] 👈
 
 ## 핵심 기능
 
@@ -70,14 +70,14 @@
 
 ### 예약 알림
 
-<div align='center' style='width:33%'>
+<div align='center'>
   <table align='center'>
     <tr>
       <th style='text-align: center;'>체험 수락 알림</th>
     </tr>
     <tr>
       <th>
-        <img src='./source/gifs/push_alarm.gif' alt='체험 승락 알림' />
+        <img src='./source/gifs/push_alarm.gif' alt='체험 승락 알림' width='33%'/>
       </th>
     </tr>
   </table>
