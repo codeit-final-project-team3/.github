@@ -24,23 +24,64 @@
 
 ### 유저기능
 
-1. 로그인 & 회원가입
-
-2. 소셜 로그인
-
-3. 개인페이지
+<div align='center'>
+  <table align='center'>
+    <tr>
+      <th style='text-align: center;'>로그인</th>
+      <th style='text-align: center;'>회원가입</th>
+      <th style='text-align: center;'>소셜 로그인</th>
+    </tr>
+    <tr>
+      <th>
+        <img src='./source/gifs/login.gif' alt='로그인' />
+      </th>
+      <th>
+        <img src='./source/gifs/signup.gif' alt='회원가입' />
+      </th>
+      <th>
+        <img src='./source/gifs/oauth.gif' alt='소셜 로그인' />
+      </th>
+    </tr>
+  </table>
+</div>
 
 ### 체험 관리
 
-1. 체험 등록
-
-2. 체험 예약
-
-3. 체험 취소
-
-4. 체험 후기 작성
+<div align='center'>
+  <table align='center'>
+    <tr>
+      <th style='text-align: center;'>체험 등록/수정</th>
+      <th style='text-align: center;'>체험 예약/취소</th>
+      <th style='text-align: center;'>예약 승락/거절</th>
+    </tr>
+    <tr>
+      <th>
+        <img src='./source/gifs/activity_manage.gif' alt='체험 등록/수정/삭제' />
+      </th>
+      <th>
+        <img src='./source/gifs/booking.gif' alt='체험 예약/취소' />
+      </th>
+      <th>
+        <img src='./source/gifs/accept_book.gif' alt='예약 승락/거절' />
+      </th>
+    </tr>
+  </table>
+</div>
 
 ### 예약 알림
+
+<div align='center' style='width:33%'>
+  <table align='center'>
+    <tr>
+      <th style='text-align: center;'>체험 수락 알림</th>
+    </tr>
+    <tr>
+      <th>
+        <img src='./source/gifs/push_alarm.gif' alt='체험 승락 알림' />
+      </th>
+    </tr>
+  </table>
+</div>
 
 ## Fingers 🖐️
 
