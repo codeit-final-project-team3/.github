@@ -99,6 +99,10 @@
       <th style='text-align: center;' colspan='2'>체험을 상세하게 볼 수 있으며, 예약 가능한 페이지</th>
     </tr>
     <tr>
+      <th>PC</th>
+      <th>Mobile</th>
+    </tr>
+    <tr>
       <th><img src='./source/images/체험상세.png' alt='체험 상세'/></th>
       <th>
         <div height='100%' align='center'>
@@ -111,6 +115,10 @@
     </tr>
     <tr>
       <th style='text-align: center;' colspan='2'>내가 신청한 체험의 수락/거절에 대한 알림</th>
+    </tr>
+    <tr>
+      <th>PC</th>
+      <th>Mobile</th>
     </tr>
     <tr>
       <th><img src='./source/images/알림_풀사이즈.png' alt='예약 현황'/></th>
