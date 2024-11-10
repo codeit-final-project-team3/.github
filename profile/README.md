@@ -1,4 +1,4 @@
-# 즐거움을 나누는 이색 체험 플랫폼, ✋ GiveMeFive 
+# 즐거움을 나누는 이색 체험 플랫폼, ✋ GiveMeFive
 
 <br/>
 <br/>
@@ -28,6 +28,68 @@
 
 <br/>
 
+## 페이지소개
+
+<div align='center'>
+  <table>
+    <tr>
+      <th style='text-align: center;'>메인 페이지</th>
+      <th style='text-align: center;'>마이 페이지</th>
+    </tr>
+    <tr>
+      <th><img src='./source/images/메인.png' alt='메인'/></th>
+      <th><img src='./source/images/마이페이지.png' alt='마이 페이지'/></th>
+    </tr>
+    <tr>
+      <th style='text-align: center;' colspan='2'>체험 상세 반응형</th>
+    </tr>
+    <tr>
+      <th><img src='./source/images/체험상세.png' alt='체험 상세' height='450'/></th>
+      <th>
+        <div height='100%' align='center'>
+          <img src='./source/images/체험상세_반응형.png' alt='체험 상세 반응형' width='60%'/>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <th style='text-align: center;'>예약 확인</th>
+      <th style='text-align: center;'>후기 작성</th>
+    </tr>
+    <tr>
+      <th><img src='./source/images/예약확인.png' alt='예약확인'/></th>
+      <th><img src='./source/images/후기작성.png' alt='후기작성'/></th>
+    </tr>
+    <tr>
+      <th style='text-align: center;'>내 체험 관리</th>
+      <th style='text-align: center;'>내 체험 등록</th>
+    </tr>
+    <tr>
+      <th><img src='./source/images/체험관리.png' alt='체험 관리'/></th>
+      <th><img src='./source/images/체험등록.png' alt='체험 등록'/></th>
+    </tr>
+    <tr>
+      <th style='text-align: center;'>내 체험 수정</th>
+      <th style='text-align: center;'>내 체험 삭제</th>
+    </tr>
+    <tr>
+      <th><img src='./source/images/체험수정.png' alt='체험 수정'/></th>
+      <th><img src='./source/images/체험삭제.png' alt='체험 삭제'></th>
+    </tr>
+    <tr>
+      <th style='text-align: center;'>예약 현황</th>
+      <th style='text-align: center;'>알림</th>
+    </tr>
+    <tr>
+      <th><img src='./source/images/예약현황.png' alt='예약 현황'/></th>
+      <th>
+        <div align='center' hegiht='100%'>
+          <img src='./source/images/알림.png' alt='알림' width='60%'/>
+        </div>
+      </th>
+    </tr>
+  </table>
+</div>
+<!-- 
 ## 💡 핵심 기능
 
 <br/>
@@ -86,7 +148,7 @@
 
 <br/>
 
-###  &nbsp;&nbsp; 🔔 예약 알림
+### &nbsp;&nbsp; 🔔 예약 알림
 
 <br/>
 
@@ -101,11 +163,11 @@
       </th>
     </tr>
   </table>
-</div>
+</div> -->
 
 <br/>
 
-## 🖐️ Fingers 
+## 🖐️ Fingers
 
 <br/>
 
