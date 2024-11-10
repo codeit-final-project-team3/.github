@@ -286,7 +286,7 @@
 
 ## 회고
 
-<table align='center'>
+<table>
   <tr>
     <td style="text-align:center;"><a href="https://github.com/itscold96"><img width="40px" src="https://avatars.githubusercontent.com/u/98478661?v=4"/></a></td>
     <th>김민찬</th>
