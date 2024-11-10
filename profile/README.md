@@ -167,6 +167,8 @@
 
 <br/>
 
+## 기술 스택
+
 ## 🖐️ Fingers
 
 <br/>
@@ -199,6 +201,31 @@
     </tr>
   </table>
 </div>
+
+## 회고
+
+<table align='center'>
+  <tr>
+    <td style="text-align:center;"><a href="https://github.com/itscold96"><img width="40px" src="https://avatars.githubusercontent.com/u/98478661?v=4"/></a></td>
+    <th>김민찬</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><a href="https://github.com/KimDasom521"><img width="40px" src="https://avatars.githubusercontent.com/u/83847755?v=4"/></a></td>
+    <th>김다솜</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><a href="https://github.com/ayoooyh"><img width="40px" src="https://avatars.githubusercontent.com/u/127219927?v=4"/></a></td>
+    <th>신윤하</th>
+    <th></th>
+  </tr>
+  <tr>
+     <td style="text-align:center;"><a href="https://github.com/MELATONIN99"><img width="40px" src="https://avatars.githubusercontent.com/u/140742210?v=4a"/></a></td>
+    <th>염성진</th>
+    <th></th>
+  </tr>
+</table>
 
 <!-- links -->
 
