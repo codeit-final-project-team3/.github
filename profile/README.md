@@ -1,4 +1,4 @@
-# 즐거움을 나누는 이색 체험 플랫폼, GiveMeFive
+# 즐거움을 나누는 이색 체험 플랫폼, ✋ GiveMeFive 
 
 <br/>
 <br/>
@@ -8,11 +8,17 @@
 <br/>
 <br/>
 
-## 개발기간
+## 📆 개발기간
+
+<br/>
 
 2024년 10월 7일 ~ 2024년 11월 11일 (5주)
 
-## 서비스 소개
+<br/>
+
+## 💻 서비스 소개
+
+<br/>
 
 - 즐거움을 나누는 이색 체험 플랫폼, GIVEMEFIVE에서 간단하게 여행을 예약해보세요!
 
@@ -20,9 +26,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;👉 [GIVEMEFIVE 개발 기록 노션][노션] 👈
 
-## 핵심 기능
+<br/>
 
-### 유저기능
+## 💡 핵심 기능
+
+<br/>
+
+### &nbsp;&nbsp; 🙆🏼‍♂️ 유저기능
+
+<br/>
 
 <div align='center'>
   <table align='center'>
@@ -45,7 +57,11 @@
   </table>
 </div>
 
-### 체험 관리
+<br/>
+
+### &nbsp;&nbsp; 🏖️ 체험 관리
+
+<br/>
 
 <div align='center'>
   <table align='center'>
@@ -68,7 +84,11 @@
   </table>
 </div>
 
-### 예약 알림
+<br/>
+
+###  &nbsp;&nbsp; 🔔 예약 알림
+
+<br/>
 
 <div align='center'>
   <table align='center'>
@@ -83,7 +103,11 @@
   </table>
 </div>
 
-## Fingers 🖐️
+<br/>
+
+## 🖐️ Fingers 
+
+<br/>
 
 <div align="center">  
   <table style="text-align:center;">
