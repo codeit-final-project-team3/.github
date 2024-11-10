@@ -22,7 +22,7 @@
 
 - 즐거움을 나누는 이색 체험 플랫폼, GIVEMEFIVE에서 간단하게 여행을 예약해보세요!
 
-&nbsp;&nbsp;&nbsp;&nbsp;👉 [GIVEMEFIVE 구경][배포] 👈
+&nbsp;&nbsp;&nbsp;&nbsp;👉 [GIVEMEFIVE 구경하기][배포] 👈
 
 &nbsp;&nbsp;&nbsp;&nbsp;👉 [GIVEMEFIVE 개발 기록 노션][노션] 👈
 
