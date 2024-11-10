@@ -44,7 +44,7 @@
       <th style='text-align: center;' colspan='2'>체험 상세 반응형</th>
     </tr>
     <tr>
-      <th><img src='./source/images/체험상세.png' alt='체험 상세' height='450'/></th>
+      <th><img src='./source/images/체험상세.png' alt='체험 상세'/></th>
       <th>
         <div height='100%' align='center'>
           <img src='./source/images/체험상세_반응형.png' alt='체험 상세 반응형' width='60%'/>
